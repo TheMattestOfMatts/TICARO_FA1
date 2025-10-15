@@ -90,7 +90,7 @@ aside p {
 }
 
 nav a {
-  color: #004D40; 
+  color: #0befc9; 
   text-decoration: none;
   padding: 4px 8px;
   display: inline-block;
@@ -112,3 +112,4 @@ nav p {
     color: white;
     font-weight: bold;
 }
+
